@@ -140,9 +140,6 @@ h2 {
 }
 
 @media (max-width: 796px) {
-  .box img {
-    max-width: 00px;
-  }
   .box p {
     font-size: 20px;
     font-weight: 400;
@@ -435,6 +432,7 @@ footer {
   .content h2 {
     margin: 0;
   }
+
   .box p {
     font-size: 18px;
   }
